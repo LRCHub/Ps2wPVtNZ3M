@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "クラブ・アンリアリティ",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2026-02-16T15:12:18.642776Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "クラブ・アンリアリティ",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/01_クラブ・アンリアリティ_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "クラブ・アンリアリティ",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/02_クラブ・アンリアリティ_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "クラブ・アンリアリティ",
+      "artist": "Kitani, Tatsuya",
+      "has_synced": true,
+      "path": "select/03_クラブ・アンリアリティ_Kitani,_Tatsuya.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "クラブ・アンリアリティ / キタニタツヤ - CLUB UNREALITY / Tatsuya Kitani (Official Music Video)",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/04_クラブ・アンリアリティ___キタニタツヤ_-_CLUB_UNREALITY___Tatsuya_Kitani_(Official_Music_Video)_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クラブ・アンリアリティ",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_クラブ・アンリアリティ_キタニタツヤ.txt"
+    }
+  ]
+}
